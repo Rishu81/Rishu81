@@ -25,7 +25,7 @@ Welcome to my GitHub! I love building **intelligent systems** with cutting-edge 
   ⚙️ Proficient in **Python**, **C++**, with a solid foundation in **algorithms**, **data structures**, and **system design**.
 
 - 🌐 **API Development**  
-  <img src="" width="200">  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE4MmZlbDM4cmphcHl5ZGx1enBjY3R1NGpzdHNkZjJjcnNkcXJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif" width="200">  
   🚀 Built scalable **APIs** for ML models using **FastAPI**.
 
 - ☁️ **Cloud & DevOps**  
