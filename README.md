@@ -1,21 +1,57 @@
-# Hi, I'm Rishabh Gupta! 👋
+# 👋 Hey, I'm **Rishabh Gupta**!
 
-👨‍💻 I'm a **Software Engineer** and **Machine Learning/AI enthusiast** currently pursuing a Bachelor of Engineering in Computer Science from Thapar University. I love building intelligent systems that bridge the gap between technology and real-world applications.
+👨‍💻 **Software Engineer** | **Machine Learning/AI Enthusiast**  
+🎓 **Computer Science Engineering @ Thapar University**
 
-## 🚀 My Skills & Interests:
-- **Machine Learning & Deep Learning**: Hands-on experience with frameworks like TensorFlow, Keras, and PyTorch.
-- **Computer Vision & Natural Language Processing**: Projects involving face recognition, image processing, and speech-to-text models.
-- **Software Development**: Strong foundation in algorithms, data structures, and system design, with proficiency in Python, C++.
-- **API Development**: Built APIs for machine learning models using FastAPI.
-- **Cloud & DevOps**: Experience with Google Cloud (Vertex AI), for continuous integration and deployment.
+---
 
-## 💼 Projects:
-- **Frontal Face Generation using GANs**: Developed a system that generates frontal face views from side-view images using GANs, with potential applications in surveillance and security.
-- **Diabetes Prediction**: Contributed to a team project to build a predictive model using machine learning, and developed an API for the same using FastAPI.
-- **Speech Command Recognition**: Fine-tuned an ASR model using the Speech Commands dataset to classify audio commands.
+🚀 **Bridging the gap between technology & real-world applications** 🚀
 
-Check out my GitHub repositories to explore more of my work! 
+Welcome to my GitHub! I love building **intelligent systems** with cutting-edge tech, and I'm always exploring new ways to integrate **AI** into everyday life. Let's connect!
 
-## 📫 How to reach me:
-- **Email**: rishabhgupta7981@gmail.com
-- **LinkedIn**: [linkedin.com/in/rishabh-gupta](https://linkedin.com/in/rishabh-gupta-5b5ab2289)
+---
+
+## 💡 **What I Do:**
+
+- 🤖 **Machine Learning & Deep Learning**  
+  🛠 Hands-on with **TensorFlow**, **Keras**, **PyTorch**  
+  🔍 Experience in **face recognition**, **image processing**, and **speech-to-text**.
+
+- 💻 **Software Development**  
+  ⚙️ Proficient in **Python**, **C++**, with a solid foundation in **algorithms**, **data structures**, and **system design**.
+
+- 🌐 **API Development**  
+  🚀 Built scalable **APIs** for ML models using **FastAPI**.
+
+- ☁️ **Cloud & DevOps**  
+  🖥 Leveraging **Google Cloud** & **Vertex AI** for continuous integration and deployment.
+
+---
+
+## 💼 **Featured Projects:**
+
+- 🎭 **Frontal Face Generation with GANs**  
+  **Objective**: Generate frontal face views from side-view images using GANs for security & surveillance applications.  
+
+- 🩺 **Diabetes Prediction API**  
+  Contributed to building a predictive model, then developed an API for it using **FastAPI**.
+
+- 🎙 **Speech Command Recognition**  
+  Fine-tuned an **ASR model** with the **Speech Commands dataset** to classify audio commands.
+
+---
+
+## 🌱 **Learning & Growing**
+
+Always pushing boundaries in **AI/ML**, **Computer Vision**, and **Natural Language Processing**. I aim to create impactful projects that make a difference. Feel free to dive into my repos and explore my work!
+
+---
+
+## 📫 **Let's Connect:**
+
+💌 **Email**: [rishabhgupta7981@gmail.com](mailto:rishabhgupta7981@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/rishabh-gupta](https://linkedin.com/in/rishabh-gupta-5b5ab2289)  
+
+---
+
+✨ **Check out my repositories and feel free to collaborate!** ✨
