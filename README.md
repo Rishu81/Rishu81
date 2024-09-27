@@ -8,6 +8,7 @@
 🚀 **Bridging the gap between technology & real-world applications** 🚀
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"></img>
+
 Welcome to my GitHub! I love building **intelligent systems** with cutting-edge tech, and I'm always exploring new ways to integrate **AI** into everyday life. Let's connect!
 
 ---
