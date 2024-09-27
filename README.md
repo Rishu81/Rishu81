@@ -1,6 +1,7 @@
 # 👋 Hey, I'm **Rishabh Gupta**!
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"></img>
+
 👨‍💻 **Software Engineer** | **Machine Learning/AI Enthusiast**  
 🎓 **Computer Science Engineering @ Thapar University**
 
