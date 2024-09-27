@@ -8,7 +8,7 @@
 
 🚀 **Bridging the gap between technology & real-world applications** 🚀
 
-<img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE4MmZlbDM4cmphcHl5ZGx1enBjY3R1NGpzdHNkZjJjcnNkcXJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.webp)" width="300">  
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1y0zSu5hYE1pJSdqmI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/race-kickstart-etas-1y0zSu5hYE1pJSdqmI">via GIPHY</a></p>
 Welcome to my GitHub! I love building **intelligent systems** with cutting-edge tech, and I'm always exploring new ways to integrate **AI** into everyday life. Let's connect!
 
 ---
